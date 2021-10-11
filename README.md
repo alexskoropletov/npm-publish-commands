@@ -1,6 +1,8 @@
 # npm-publish-commands
 
-** just a reminder for myself
+**just a reminder for myself**
 
-> npm login --score=@skoropletov
-> npm publish --access=public
+```bash
+npm login --score=@skoropletov
+npm publish --access=public
+```
