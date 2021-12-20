@@ -3,6 +3,6 @@
 **just a reminder for myself**
 
 ```bash
-npm login --score=@skoropletov
+npm login --scope=@skoropletov
 npm publish --access=public
 ```
